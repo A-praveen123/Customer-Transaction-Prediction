@@ -8,6 +8,8 @@ Given anonymized customer data (`var_0` … `var_199`), predict the binary `targ
 
 ## Dataset
 
+Dataset Link : https://d3ilbtxij3aepc.cloudfront.net/projects/CDS-Capstone-Projects/PRCP-1003-CustTransPred.zip
+
 | Item | Details |
 |---|---|
 | Rows | 200,000 |
